@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item android:id="@+id/report_crime"
+            android:icon="@drawable/reportcrime"
+            android:title="Report Crime" />
+        <item android:id="@+id/contact_officers"
+            android:icon="@drawable/contactofficers"
+            android:title="Contact Police Officers" />
+        <item android:id="@+id/station_near"
+            android:icon="@drawable/stations"
+            android:title="Stations Near You" />
+        <item android:id="@+id/my_way"
+
+            android:icon="@drawable/myway"
+            android:title="My way" />
+        <item android:id="@+id/lost_stuff"
+
+            android:icon="@drawable/reportlost"
+            android:title="Report Lost Property"
+            />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrimePreventerUganda</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name ="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="lost">Help Us Track Your Lost Property By Providing This Information</string>
+    <string name="welcome">Help Us Improve Your Safety And Security</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
