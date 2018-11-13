@@ -20,5 +20,5 @@ The content in the files is changed to fit the required need.
 ISSUES
 I nolonger have access to the server whose link in included in the java code so the application cannot retrieve data. In order to fix this, there is need to change the url links in the java files to point to a different server and for the names of the php files to be changed accordingly.
 
-The APK
-the apk will be uploaded to a branch together with the different php files so that you have an idea what the app looks like.
+The APK 
+https://drive.google.com/open?id=1C8JpXbxSYAxBDm8Vwvh9y7DRJI2wyQjg
